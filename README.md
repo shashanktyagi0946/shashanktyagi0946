@@ -69,9 +69,6 @@ ML Pipelines, Predictive Modeling, Time-Series Forecasting, Computer Vision, NLP
 🔗 Repo: [UK-Fuel-Price-Analysis](https://github.com/shashanktyagi0946/UK-Fuel-Price-Analysis)
 
 ---
-## 🔥 Latest GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 ## 📊 GitHub Stats
@@ -87,6 +84,11 @@ ML Pipelines, Predictive Modeling, Time-Series Forecasting, Computer Vision, NLP
 
 ---
 
+## 🔥 Latest GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 ## 📫 Connect With Me
 
 **LinkedIn:** https://linkedin.com/in/shashank-tyagi-st079471  
