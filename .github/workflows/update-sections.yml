@@ -1,0 +1,28 @@
+name: Auto Update GitHub Sections
+
+on:
+  schedule:
+    # Random times daily — looks natural and avoids patterns
+    - cron: "24 1 * * *"
+    - cron: "53 7 * * *"
+    - cron: "11 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-sections:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Update Top Repositories
+        uses: Readme-Workflows/top-repos@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          max_repos: 6
+
+      - name: Update Languages
+        uses: Readme-Workflows/languages-used@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
