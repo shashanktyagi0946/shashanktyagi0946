@@ -8,7 +8,7 @@
 Innovative **Data Scientist** with expertise in **machine learning, deep learning, NLP, computer vision, and time-series forecasting**.  
 I build scalable data pipelines, deploy production-ready ML models, and convert complex data into actionable insights that drive real business value.
 
-Currently pursuing my **MSc in Data Science at the University of Birmingham (UK)** and working as a **Data Scientist at Creator OS**.
+Recently graduated with an **MSc in Data Science at the University of Birmingham (UK)** and working as a **Data Scientist at Creator OS**.
 
 ---
 
